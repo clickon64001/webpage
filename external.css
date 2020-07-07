@@ -1,0 +1,23 @@
+
+
+
+
+h1{ color: 	#DC143C;}
+body{background-color: antiquewhite; }
+
+p{
+  color: 	#DC143C;
+}
+hr{
+
+     border-style:none;
+     border-color:darkslategray;
+     border-top-style: dotted;
+     border-width:6px;
+     width:20%;
+
+  }
+.heck
+{
+  color: black;
+}
